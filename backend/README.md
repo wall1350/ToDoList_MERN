@@ -1,6 +1,6 @@
 # What is it
 
-This project is a ToDo List Backend Application which fork from 
+This project is a ToDo List Backend Application which forked from 
 [talyssonoc/node-api-boilerplate](https://github.com/talyssonoc/node-api-boilerplate).
 
 # Usage and Environment
